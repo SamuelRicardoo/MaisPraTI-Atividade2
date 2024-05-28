@@ -116,7 +116,5 @@ avaliarHotel(2, "Ótimo atendimento!");
 avaliarHotel(1, "Adorei!");
 avaliarHotel(2, "Amei o atendimento!");
 
-
 listarReservas();
-
 todaAvaliacao();
